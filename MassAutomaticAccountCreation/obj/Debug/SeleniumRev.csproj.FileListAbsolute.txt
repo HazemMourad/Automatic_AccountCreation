@@ -1,0 +1,80 @@
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\linux\selenium-manager
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\macos\selenium-manager
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.exe.config
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.exe
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\nunit.framework.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\WebDriver.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\WebDriver.Support.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\nunit.framework.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.CoreCompileInputs.cache
+D:\C# Revision\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.CopyComplete
+D:\C# Revision\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.exe
+D:\C# Revision\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\NUnit3.TestAdapter.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\NUnit3.TestAdapter.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.api.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.core.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\testcentric.engine.metadata.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.AssemblyReference.cache
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.Interfaces.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.System.Drawing.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.xml
+D:\C# Revision\SeleniumRev\SeleniumRev\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\NUnit3.TestAdapter.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.api.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\nunit.engine.core.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\testcentric.engine.metadata.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.exe.config
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.exe
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\SeleniumRev.pdb
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.Interfaces.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.System.Drawing.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\nunit.framework.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\SeleniumExtras.PageObjects.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\WebDriver.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\WebDriver.Support.dll
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\EPPlus.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.pdb
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\bin\Debug\nunit.framework.xml
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.AssemblyReference.cache
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.CoreCompileInputs.cache
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.csproj.CopyComplete
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.exe
+D:\Freelancing Working\FL worl\SeleniumRev\SeleniumRev\obj\Debug\SeleniumRev.pdb
